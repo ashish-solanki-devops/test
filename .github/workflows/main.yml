@@ -42,4 +42,3 @@ jobs:
           # Add commands to restart your application/server
           # For example, if using Node.js:
           pm2 restart all
-EOF
